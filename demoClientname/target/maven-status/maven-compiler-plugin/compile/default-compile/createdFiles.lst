@@ -1,0 +1,13 @@
+com\example\demoClient\pojo\Employee.class
+com\example\demoClient\dao\EmployeeRepository.class
+com\example\demoClient\pojo\Users.class
+com\example\demoClient\service\UsersService.class
+com\example\demoClient\service\ProductConsumer.class
+com\example\demoClient\controller\EmployeeController.class
+com\example\demoClient\service\EmployeeService.class
+com\example\demoClient\DemoClientnameApplication.class
+com\example\demoClient\pojo\Product.class
+com\example\demoClient\service\EmployeeServiceImpl.class
+com\example\demoClient\controller\UserController.class
+com\example\demoClient\controller\ProductController.class
+com\example\demoClient\dao\OAuthDao.class
