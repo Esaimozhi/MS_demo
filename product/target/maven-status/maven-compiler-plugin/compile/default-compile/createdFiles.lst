@@ -1,0 +1,6 @@
+com\example\product\pojo\Product.class
+com\example\product\Service\ProductService.class
+com\example\product\Service\ProductServiceImpl.class
+com\example\product\dao\ProductRepository.class
+com\example\product\ProductApplication.class
+com\example\product\controller\ProductController.class
